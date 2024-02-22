@@ -1,0 +1,36 @@
+#container{
+    border: none;
+    display:grid;
+    grid-template-columns:50% 50% ;
+    padding: 80px;
+    margin: auto;
+}
+
+.undraw{
+    border: none;
+    border-right: solid purple;
+
+}
+input{
+    padding: 12px 12px;
+    border-radius: 5px;
+
+}
+
+.form{
+  border: none;
+  margin: auto;
+  
+}
+.button{
+    padding: 5px 5px;
+    width: 90%;
+    color: white;
+    background-color: purple;
+}
+
+.icons{
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    padding-left: 80px;
+}
